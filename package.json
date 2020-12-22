@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "my_api",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1",
+        "timelite": "^1.0.0"
+    }
+}
